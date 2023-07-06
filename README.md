@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mssci92/mssci92/blob/main/7994835.png/dark-mode-image.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mssci92/mssci92/blob/main/7994835.png/light-mode-image.jpg">
-  <img alt="Icon" src="https://example.com/default-image.jpg">
+  <img alt="Icon" src="https://github.com/mssci92/mssci92/blob/main/7994835.png">
 </picture>
 
 
