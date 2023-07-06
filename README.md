@@ -1,4 +1,4 @@
-# Sabrina - Data Scientist
+# Sabrina Ali - Aspiring Healthcare Data Scientist
 
 Welcome to my GitHub profile! Here you can find some of the projects and work I've done as a data scientist.
 
