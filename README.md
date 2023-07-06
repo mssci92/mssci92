@@ -1,5 +1,5 @@
 # Sabrina Ali - Aspiring Healthcare Data Scientist
-<picture>![Female Data Scientist Icon]([https://www.google.com/url-to-your-image.jpg](https://www.google.com/search?q=+female+data+scientist+icon&tbm=isch&ved=2ahUKEwiX-6y5uPn_AhXdsCcCHRBcBGoQ2-cCegQIABAA&oq=+female+data+scientist+icon&gs_lcp=CgNpbWcQAzIECCMQJ1DVB1i0HmDrIGgIcAB4AIABO4gBqASSAQIxMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=bl2mZJeMLt3hnsEPkLiR0AY&bih=746&biw=1536&rlz=1C1CHBF_en-GBGB1057GB1057#imgrc=WQLkwrDrr5-jtM)) <picture>
+<picture>[Female Data Scientist Icon]([https://www.google.com/url-to-your-image.jpg](https://www.google.com/search?q=+female+data+scientist+icon&tbm=isch&ved=2ahUKEwiX-6y5uPn_AhXdsCcCHRBcBGoQ2-cCegQIABAA&oq=+female+data+scientist+icon&gs_lcp=CgNpbWcQAzIECCMQJ1DVB1i0HmDrIGgIcAB4AIABO4gBqASSAQIxMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=bl2mZJeMLt3hnsEPkLiR0AY&bih=746&biw=1536&rlz=1C1CHBF_en-GBGB1057GB1057#imgrc=WQLkwrDrr5-jtM))<picture>
 
 Welcome to my GitHub profile! Here you can find some of the projects and work I've done as an aspiring healthcare data scientist.
 
