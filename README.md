@@ -30,5 +30,5 @@ next if they have watched Planet Hulk based on the word vector similarity of the
 
 Feel free to reach out to me for collaborations or any inquiries:
 - Email: sabrina.92@live.co.uk
-- LinkedIn: [Sabrina Ali][(https://www.linkedin.com/in/sabrinaali92/)
+- LinkedIn: [Sabrina Ali](https://www.linkedin.com/in/sabrinaali92/)
 
