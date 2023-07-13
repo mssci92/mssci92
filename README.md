@@ -11,6 +11,7 @@ Here is a link to various projects completed during my HyperionDev Data Science 
 - Machine Learning
 - Data Analysis
 - Data Visualization
+- Natural Language Proccessing
 - Statistical Modeling
 
 ## Education
