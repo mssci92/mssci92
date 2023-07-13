@@ -1,6 +1,6 @@
 # Sabrina Ali - Aspiring Healthcare Data Scientist
 
-Welcome to my GitHub profile! Here you can find some of the projects and work I've done as an aspiring healthcare data scientist.
+Welcome to my GitHub profile! Here you can find some of the projects I've programmed and produced.
 
 ## Projects
 https://github.com/mssci92/finalCapstone/blob/main/README.md
