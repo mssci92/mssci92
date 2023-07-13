@@ -1,10 +1,5 @@
 # Sabrina Ali - Aspiring Healthcare Data Scientist
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mssci92/mssci92/blob/main/7994835.png/dark-mode-image.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mssci92/mssci92/blob/main/7994835.png/light-mode-image.jpg">
-  <img alt="Icon" src="https://github.com/mssci92/mssci92/blob/main/7994835.png">
-</picture>
-
+![alt text](https://github.com/mssci92/mssci92/blob/main/7994835.png/light-mode-image.jpg)
 
 Welcome to my GitHub profile! Here you can find some of the projects and work I've done as an aspiring healthcare data scientist.
 
