@@ -9,15 +9,7 @@
 Welcome to my GitHub profile! Here you can find some of the projects and work I've done as an aspiring healthcare data scientist.
 
 ## Projects
-
-### Project 1: Movie Recommendation
-- Description: In this project, I created a function to which movies a user would watch
-next if they have watched Planet Hulk based on the word vector similarity of the description of movies.
-- Repository: [Semantic Similarity- watch_next ](https://github.com/mssci92/finalCapstone/blob/main/watch_next.py)
-
-### Project 2: Predictive Modeling for Insurance Charges
-- Description: This project involved building a predictive model to forecast insurance charges based on data. I applied Simple linear regression, a machine learning algorithm, to create accurate insurance charge predictions based on a customer's age, and visualised the results.
-- Repository: [Simple Linear Regression - insurance](https://github.com/mssci92/finalCapstone/blob/main/Simple%2Blinear%2Bregression%2Binsurance.ipynb)
+https://github.com/mssci92/finalCapstone/blob/main/README.md
 
 ## Skills
 
