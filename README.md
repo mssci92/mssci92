@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll discover a link to a collection of projects I've developed as I pursue my aspirations as a healthcare data and AI scientist. 
 
 ## Projects
-https://github.com/mssci92/finalCapstone/blob/main/README.md
+Here is a link to various projects completed during my HyperionDev Data Science Bootcamp: https://github.com/mssci92/HyperionDevDS/blob/main/README.md
 
 ## Skills
 
